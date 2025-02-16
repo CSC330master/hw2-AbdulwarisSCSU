@@ -1,0 +1,38 @@
+Q1
+Linux Commands Used
+cd - Change directory
+ls - List files in a directory
+pico - open a file in the pico text editor
+
+Q2
+Git Commands Used
+git clone - Copy a repository from Github to my computer
+git add - Stage all changes for commit
+git push origin master - Upload my changes to Github
+git status - check current state of the gif repository
+
+Q3
+1. Rules for Collaboration on Homework Assignments
+You can discuss ideas with classmates.
+You should not complete your homework with individuals outside of your group.
+You may use concepts not covered in class but must be able to explain them verbally.
+You must submit a separate document listing sources and classmates you collaborated with.
+If you worked alone, you must state:
+"I did not collaborate with anyone while working on this assignment."
+
+2. Rules for Consulting External References for Homework Assignments
+You may consult printed or online resources, except generative AI tools (e.g., ChatGPT).
+You must read and understand the material before using it.
+You should not copy directly from sources; instead, put them aside and write your own version.
+You must be able to explain your solution thoroughly when asked.
+You should cite any external sources in a separate document.
+
+3. Penalty for Submitting Late Assignments
+Late assignments are accepted but will incur a 10% deduction per day.
+Exceptions are only granted for extreme circumstances on an individual basis​
+
+4. Penalty for Missing Classes
+Regular attendance is expected.
+If you miss a class, it is your responsibility to catch up on what was covered.
+If you miss a significant amount of coursework, you may need to consider withdrawal.
+Absences for official university activities must be documented in advance​
